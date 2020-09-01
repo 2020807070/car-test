@@ -1,0 +1,14 @@
+@import "~taro-ui/dist/style/components/toast.scss";
+// @import "~taro-ui/dist/style/components/icon.scss";
+.at-toast {
+  .toast-body {
+    background: linear-gradient(-134deg, #ff9350 0%, #ff4d60 100%) !important;
+    .toast-body-content__info {
+      font-size: 14Px;
+    }
+    .toast-body-content__img-item {
+      width: 40Px;
+      height: 40Px;
+    }
+  }
+}
